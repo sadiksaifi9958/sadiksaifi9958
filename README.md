@@ -1,31 +1,70 @@
-# Hi, I'm Sadik Saifi 👋
+<h1 align="center">Hi 👋, I'm Sadik Saifi</h1>
+<h3 align="center">Frontend Developer from India 🇮🇳</h3>
 
-Frontend Developer from Faridabad, India 🇮🇳
-Building clean, responsive web interfaces with HTML, CSS & JavaScript.
-Currently learning React ⚛️
+<p align="center">
+  Passionate about building clean, responsive and interactive web applications using modern frontend technologies.
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🌱 Currently learning **React.js**
+- 💻 Building real-world frontend projects
+- 🎯 Focused on becoming a skilled Frontend Developer
+- ⚡ Interested in UI/UX, animations & interactive web apps
 
 ---
 
 ## 🛠️ Tech Stack
 
-
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
-
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,git,github,vscode" />
+</p>
 
 ---
 
-## 🚀 Projects
+## 📌 Featured Projects
 
-- 🔗 [NovaTech](https://sadiksaifi9958.github.io/NovaTech/) — Multi-page agency website
-- 🔗 [Random Color Generator](https://sadiksaifi9958.github.io/Random-Color-Generator) — DOM manipulation project
-- 🔗 [Better To-Do](https://sadiksaifi9958.github.io/Better-To-Do) — Task management app
+### 🎮 Nation Wants To Guess
+A comedy-inspired React quiz game with timer, score tracking and responsive UI.
+
+🔗 Repo: https://github.com/sadiksaifi9958/nation-wants-to-guess
 
 ---
 
+### 🌐 NovaTech
+A modern multi-page agency website with animations, dark/light mode and responsive design.
+
+🔗 Repo: https://github.com/sadiksaifi9958/NovaTech
+
 ---
 
-## 📬 Connect with Me
+### 💱 Currency Converter
+React-based currency converter using live exchange rate API.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadik-saifi-934794353)
+🔗 Repo: https://github.com/sadiksaifi9958/currencyConvertor
+
+---
+
+## 📈 Currently Working On
+
+- Improving React skills
+- Building a GitHub Profile Analyzer
+- Planning a Video Editing Web App
+
+---
+
+## 📫 Connect With Me
+
+<p>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+I love turning ideas into real web applications 🚀
