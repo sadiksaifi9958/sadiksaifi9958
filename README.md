@@ -50,8 +50,8 @@ React-based currency converter using live exchange rate API.
 ## 📈 Currently Working On
 
 - Improving React skills
-- Building a GitHub Profile Analyzer
-- Planning a Video Editing Web App
+- Building a quiz web app
+- Planning to build a GitHub Profile Analyzer and a Video Editing Web App
 
 ---
 
@@ -64,7 +64,3 @@ React-based currency converter using live exchange rate API.
 </p>
 
 ---
-
-## ⚡ Fun Fact
-
-I love turning ideas into real web applications 🚀
