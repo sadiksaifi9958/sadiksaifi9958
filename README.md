@@ -57,7 +57,7 @@ React-based currency converter using live exchange rate API.
 ## 📫 Connect With Me
 
 <p>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+  <a href="[https://www.linkedin.com/in/sadik-saifi-934794353/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BTt3dQ7xtS3OqgxA82XjVuw%3D%3D]">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
