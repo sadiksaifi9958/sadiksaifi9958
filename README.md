@@ -26,25 +26,30 @@
 
 ## 📌 Featured Projects
 
+### 💱 BrightRoots
+A gamified learning platform for rural students of india.
+
+🔗 Repo: https://github.com/sadiksaifi9958/brightroots
+---
+
 ### 🎮 Nation Wants To Guess
 A comedy-inspired React quiz game with timer, score tracking and responsive UI.
 
-🔗 Repo: https://github.com/sadiksaifi9958/nation-wants-to-guess
+🔗 Repo: https://github.com/sadiksaifi9958/nova-quiz
 
 ---
 
 ### 🌐 NovaTech
 A modern multi-page agency website with animations, dark/light mode and responsive design.
 
-🔗 Repo: https://github.com/sadiksaifi9958/NovaTech
+🔗 Repo: https://github.com/sadiksaifi9958/nova-tech
 
 ---
 
 ### 💱 Currency Converter
 React-based currency converter using live exchange rate API.
 
-🔗 Repo: https://github.com/sadiksaifi9958/currencyConvertor
-
+🔗 Repo: https://github.com/sadiksaifi9958/nova-conv
 ---
 
 ## 📈 Currently Working On
