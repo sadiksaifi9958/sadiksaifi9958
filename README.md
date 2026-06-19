@@ -28,5 +28,4 @@ A multi-page site built in vanilla HTML/CSS/JS — scroll animations via Interse
 ## Connect
 
 - LinkedIn: [sadik-saifi-934794353](https://linkedin.com/in/sadik-saifi-934794353)
-- YouTube: [SkillLoop](https://youtube.com/@skillloop-2425) — productivity and habit-building content
 - GitHub: [sadiksaifi9958](https://github.com/sadiksaifi9958)
