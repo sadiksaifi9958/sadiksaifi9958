@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sadik Saifi</h1>
-<h3 align="center">Frontend Developer from India 🇮🇳</h3>
+<h3 align="center">Frontend Developer from India</h3>
 
 <p align="center">
   Passionate about building clean, responsive and interactive web applications using modern frontend technologies.
